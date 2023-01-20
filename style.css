@@ -1,0 +1,18 @@
+body {
+    background: rgb(249, 202, 202);
+}
+
+ul{
+    color:rgb(28, 88, 68);
+    font-style: initial;
+}
+li{
+    color:rgb(103, 154, 25);
+    font-family: sans-serif;
+}
+.clase1 {
+    text-align: left;
+    font-size: 50px;
+    color: rgb(230, 198, 20);
+    text-decoration: underline;
+}
