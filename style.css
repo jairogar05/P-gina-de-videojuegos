@@ -13,11 +13,7 @@ li{
 }
 .clase1 {
     text-align: left;
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(230, 198, 20);
     text-decoration: underline;
-}
-img{
-    font-size:large;
-    background-color: black;
 }
