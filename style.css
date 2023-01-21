@@ -1,19 +1,44 @@
 body {
     font-size: 30px;
-    background: rgb(249, 202, 202);
+    background: rgb(249, 175, 175);
 }
 
-ul{
-    color:rgb(28, 88, 68);
+ul {
+    color: rgb(31, 116, 87);
     font-style: initial;
 }
-li{
-    color:rgb(103, 154, 25);
+
+li {
+    color: rgb(103, 154, 25);
     font-family: sans-serif;
 }
+
 .clase1 {
     text-align: left;
     font-size: 40px;
     color: rgb(230, 198, 20);
     text-decoration: underline;
+}
+
+h1 {
+    color: rgb(178, 5, 5);
+}
+
+a:link {
+    color: rgb(248, 4, 134);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgba(225, 255, 0, 0.322);
+}
+
+a:hover {
+    color: rgb(48, 161, 38);
+    font-weight: bold;
+}
+
+a:active {
+    color: rgb(255, 145, 0);
+    list-style-type: circle;
 }
